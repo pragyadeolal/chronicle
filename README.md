@@ -1,6 +1,6 @@
 # chronicle
 Get in touch! 🧜‍♀️
-[Email] (pragyadeolal@gmail.com)
+[Email](pragyadeolal@gmail.com)
 [Twitter](https://twitter.com/pragyadeolal)
 [LinkedIn](https://www.linkedin.com/in/pragyadeolal/)
 [Podcast](https://anchor.fm/pragyadeolal)
