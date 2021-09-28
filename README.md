@@ -1,6 +1,6 @@
 # Hellu, I am Pragya :)
 
-Student leveraging studies in Data Science | Associate data analytics professional
+Studying Data Science | Associate data analytics professional
 
 
 Get in touch! 🧜‍♀️
