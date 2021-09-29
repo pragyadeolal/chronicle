@@ -1,6 +1,6 @@
 # Hellu, I am Pragya :)
 
-Studying Data Science | Associate data analytics professional
+Studying Data Science @ IU <!-- | Associate data analytics professional-->
 
 
 Get in touch! 🧜‍♀️
