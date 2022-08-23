@@ -1,9 +1,9 @@
-# Hellu, I am Pragya :)
+# Pragya Deolal
 
-Studying Data Science @ IU <!-- | Associate data analytics professional-->
+Associate Data Analyst
 
 
-Get in touch! 🧜‍♀️
+Get in touch!
 
  <a href= "mailto:pragyadeolal@gmail.com" rel = "nofollow">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
