@@ -5,9 +5,7 @@ Studying Data Science @ IU <!-- | Associate data analytics professional-->
 
 Get in touch! 🧜‍♀️
 
-- [Email](mailto:pragyadeolal@gmail.com)
-- [Twitter](https://twitter.com/pragyadeolal)
-- [LinkedIn](https://www.linkedin.com/in/pragyadeolal/)
+ <a href= "mailto:pragyadeolal@gmail.com" rel = "nofollow"
 
  <a href="https://twitter.com/pragyadeolal">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
