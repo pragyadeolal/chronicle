@@ -9,10 +9,11 @@ Get in touch! 🧜‍♀️
 - [Twitter](https://twitter.com/pragyadeolal)
 - [LinkedIn](https://www.linkedin.com/in/pragyadeolal/)
 
-
-<!-- <a href="https://twitter.com/pragyadeolal">
+ <a href="https://twitter.com/pragyadeolal">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+<!--
 <a href="https://www.linkedin.com/in/pragyadeolal/">
   <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
